@@ -63,10 +63,11 @@
 
 ## 💡 Quote
 
+<h2 align="center">
+🔥 <i>"If you want to buy things without looking at the price,  
+work without looking at the clock."</i> 🔥
+</h2>
+
 <p align="center">
-  <b><i>
-    <span style="font-size:20px; color:#00FFFF;">
-      "Good people with a good process will outperform good people with no process every time."
-    </span>
-  </i></b>
+— <b>Takeyouforward</b>
 </p>
