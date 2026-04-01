@@ -42,13 +42,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=parasjain238&theme=tokyonight)
 
----
-
-## 📌 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parasjain238&layout=compact&theme=tokyonight)
-
----
 
 ## 💡 Quote
 
