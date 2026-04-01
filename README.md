@@ -63,11 +63,14 @@
 
 ## 💡 Quote
 
-<h2 align="center">
-🔥 <i>"If you want to buy things without looking at the price,  
-work without looking at the clock."</i> 🔥
-</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Mindset-Work%20Hard%20%F0%9F%94%A5-black?style=for-the-badge"/>
+</p>
+
+<h3 align="center">
+✨ <i>"If you want to buy things without looking at the price, work without looking at the clock."</i> ✨
+</h3>
 
 <p align="center">
-— <b>Takeyouforward</b>
+<b>— Takeyouforward</b>
 </p>
