@@ -8,7 +8,7 @@
 ## 🧠 About Me
 
 - 🔭 I’m currently working on: **AI Dump Planning System**
-- 🌱 I’m currently learning: **Machine Learning & AI**
+-  I’m currently learning: **Machine Learning & AI**
  
 
 ---
