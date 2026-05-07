@@ -75,11 +75,11 @@
 <b>— Takeyouforward</b>
 </p>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Paras Jain GitHub Stats](https://github-readme-stats.vercel.app/api?username=parasjain238&show_icons=true&theme=tokyonight)
 
-# 💻 Most Used Languages
+## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parasjain238&layout=compact&theme=tokyonight)
 
