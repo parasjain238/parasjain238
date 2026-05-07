@@ -28,12 +28,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parasjain238&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
----
-
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=parasjain238&theme=tokyonight)
