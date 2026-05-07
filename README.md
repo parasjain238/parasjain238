@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on: **AI Dump Planning System**
 -  I’m currently learning: **Machine Learning & AI**
+
+-  ![Profile Views](https://komarev.com/ghpvc/?username=parasjain238&label=Profile%20views&color=0e75b6&style=flat)
  
 
 ---
