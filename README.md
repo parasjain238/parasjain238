@@ -43,21 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=parasjain238&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parasjain238&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parasjain238&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
 
 ### 🚀 Featured Projects
 
